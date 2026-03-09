@@ -1,5 +1,10 @@
-To avail the dataset and the prompt please fill up the google form below.
+# TantraTagger: A Benchmark Dataset for Tantrayukti-Based Discourse Structure Labelling in Sanskrit Śāstra Texts
 
- 
-this is the Google Form link: https://docs.google.com/forms/d/e/1FAIpQLSexXWDwYFlDgWzKs8UrDE76RJHhXH_28WnlknzPpKoHBB1AfA/viewform
+
+- Tapas Khanra (tapaskhanra@iitb.ac.in)
+- Priya Mishra (priyam@cse.iitb.ac.in)
+- Malhar Kulkarni (malhar@hss.iitb.ac.in)
+- Ganesh Ramakrishnan (ganesh@cse.iitb.ac.in)
+
+
  
